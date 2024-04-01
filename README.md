@@ -24,10 +24,8 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 ![239119582-9eb48cbf-8ca3-4cd9-8440-ff45fd98333e](https://github.com/velupradeep/Correlation_Regression/assets/150329341/1b239784-2810-44e9-a7a7-5daa54bc73b7)
 
-
-
+# Output 
+![313416591-f83f5459-c86a-48f0-902f-3d896c4b89ee](https://github.com/velupradeep/Correlation_Regression/assets/150329341/19aba07c-4c59-45ac-bb52-ec8fbbaf0ae9)
 # Result
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
-# Output 
-![313416591-f83f5459-c86a-48f0-902f-3d896c4b89ee](https://github.com/velupradeep/Correlation_Regression/assets/150329341/19aba07c-4c59-45ac-bb52-ec8fbbaf0ae9)
